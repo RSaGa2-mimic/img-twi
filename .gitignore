@@ -1,0 +1,15 @@
+.vagrant/
+*~
+*#
+.#*
+\#*#
+cookbooks/chef.json
+.idea/
+.DS_Store
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.env.local.php
+.env.php
+Thumbs.db
